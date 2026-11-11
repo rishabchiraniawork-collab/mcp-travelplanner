@@ -1,6 +1,6 @@
 streamlit
-agno>=2.2.10
+agno==2.8.5
 openai
 icalendar
 google-search-results
-mcp>=2.1.0,<3.0.0
+mcp==1.30.0
