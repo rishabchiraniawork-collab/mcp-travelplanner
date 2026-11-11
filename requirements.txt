@@ -3,3 +3,4 @@ agno>=2.2.10
 openai
 icalendar
 google-search-results
+mcp>=1.0,<2.0
